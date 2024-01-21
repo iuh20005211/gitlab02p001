@@ -1,1 +1,1 @@
-# gitlab02p001
+prinf("hello")
